@@ -121,7 +121,7 @@ nav ul li:hover {
 .social {
   margin-bottom: -15%;
   position: relative;
-  left: 21.5%;
+  left: 24%;
   top: -360px;
 }
 .social ul {
@@ -165,12 +165,13 @@ nav ul li:hover {
   font-family: "Poppins", sans-serif;
   color: white;
   height: auto;
-  width: 1348px;
+  width: 2000px;
   padding-top: 30px;
   align-items: center;
   margin-right: -12%;
 }
 .footer h2 {
+  margin-right: 20%;
   text-align: center;
   letter-spacing: 3px;
   word-spacing: 2px;
@@ -203,7 +204,7 @@ nav ul li:hover {
 }
 .footer ul li a:hover {
   color: rgb(6, 122, 143);
-  transform: translateX(0, -10x;);
+  transform: translateX(0, -10x);
 }
 .categoriess {
   max-width: 1080px;
@@ -213,6 +214,7 @@ nav ul li:hover {
   margin-left: 15%;
 }
 .copyright {
+  margin-right: 20%;
   text-align: center;
   letter-spacing: 3px;
 }
